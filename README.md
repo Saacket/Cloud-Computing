@@ -1,2 +1,2 @@
-# Cloud-Computing
-Mini project of Cloud computing
+# CloudComputing
+Cloud Computing Mini Project
